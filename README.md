@@ -4,6 +4,8 @@ This project is a real estate website created using HTML, CSS, and Bootstrap. It
 
 # Demo
 
+![Udemig Emlak](https://github.com/UmitAygunn/Udemig-Emlak/assets/140657845/bfb7dc53-45f8-4e37-83ca-18aca82898ba)
+
 Live Demo - Explore the live demo of the real estate website to browse and discover various property listings.
 1) https://6533ab389173480a7943f992--cerulean-flan-36cf14.netlify.app/
 
